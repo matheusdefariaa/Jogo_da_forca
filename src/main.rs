@@ -1,4 +1,3 @@
-use std::vec;
 // Jogo da forca
 // 05/01/2024
 // Autor: Matheus de Faria
