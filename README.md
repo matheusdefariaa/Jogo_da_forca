@@ -1,2 +1,3 @@
-# Jogo da Forca
-## Feito em Rust
+# Jogo da forca feito em Rust
+
+## 🚧 Ainda em construção 🚧
