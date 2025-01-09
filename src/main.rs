@@ -50,7 +50,7 @@ fn jogo_forca(nome: &str) {
         .read_line(&mut letra)
         .expect("Erro ao ler letra");
         
-        // Tira os espaços e quera de linha da letra
+        // Tira os espaços e quebra de linha da letra
         let letra = letra.trim().to_string();
 
         // Verifica se foi digitado mais de um caractere
